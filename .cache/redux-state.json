@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c09e3aa4db9d66303b079fefafbf7706",
+        "contentDigest": "4f00e2fc8e4c3180cfd729fa37fd4c1e",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -322,7 +322,7 @@
       "resolve": "/Users/kurtingwersen/Documents/CaseStudyArchive2019/CaseStudyArchive2019",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "a77c4ad8ddfd7c099694aea8fa852ba5",
+      "version": "52d3dd0d0bcd86541caac45dd6f1d51f",
       "pluginOptions": {
         "plugins": []
       },
@@ -370,7 +370,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "9956b40cf614fca24ac46535f09499b2",
+        "contentDigest": "fc0224ca4537fbdc6889a942f56d2fff",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -381,12 +381,14 @@
       },
       "port": "8000",
       "host": "localhost",
-      "buildTime": "2019-09-07T02:01:48.358Z",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-09-09T03:14:28.112Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8b2c1dc5302531a59fbd9500d642fdfd",
+        "contentDigest": "9527ccaf581bac1ee3e1877ecd808dfc",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -407,7 +409,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "536f7fb632dfd56be407d692db6da153",
+        "contentDigest": "e00d8c96817b30f0d443a3ba87464f56",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -428,7 +430,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3480c680c2da2e82e40342321133b6eb",
+        "contentDigest": "3f2b7d30bd5808ea0c295fddb9996aa5",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -449,7 +451,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "25889cdbfc8c22300f839016ba71ff2d",
+        "contentDigest": "106953bce26960365e8a3c30069d12e1",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -470,7 +472,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f7f6a13c5f804356d0899e098db70c5f",
+        "contentDigest": "c6c5195d245257598239319e4a6a0996",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -478,7 +480,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "4aaafeb6faeaf625f8c2005b21dec211"
+    "PLUGINS_HASH": "81277af0c78cb289c38afcbc9cd61ddc"
   },
   "componentDataDependencies": {
     "nodes": {
