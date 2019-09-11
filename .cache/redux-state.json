@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4f00e2fc8e4c3180cfd729fa37fd4c1e",
+        "contentDigest": "b327b3fdf0f448c1e42f017916624a0c",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -355,6 +355,10 @@
           {
             "name": "react-helmet",
             "version": "^5.2.0"
+          },
+          {
+            "name": "styled-components",
+            "version": "^4.3.2"
           }
         ],
         "devDependencies": [
@@ -379,16 +383,16 @@
       "siteMetadata": {
         "title": "Case Study Archive"
       },
-      "port": "8000",
+      "port": 8001,
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-09-09T03:14:28.112Z",
+      "buildTime": "2019-09-11T04:07:28.828Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "9527ccaf581bac1ee3e1877ecd808dfc",
+        "contentDigest": "f31c3483fc2e7a38bfa23ba6c7990c65",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -409,7 +413,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e00d8c96817b30f0d443a3ba87464f56",
+        "contentDigest": "0bf9cc17f155a1f50e6a6adc2bb4159d",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -430,7 +434,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3f2b7d30bd5808ea0c295fddb9996aa5",
+        "contentDigest": "a80fd685263e11f0980ddb10cc15e7a5",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -451,7 +455,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "106953bce26960365e8a3c30069d12e1",
+        "contentDigest": "b550e2c79bb0b24c806366cb08ff0323",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -472,7 +476,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c6c5195d245257598239319e4a6a0996",
+        "contentDigest": "e3dea48f18eca500b7ff3cd977ece776",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -480,7 +484,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "81277af0c78cb289c38afcbc9cd61ddc"
+    "PLUGINS_HASH": "6affa526606111b6aa771407ebaef3ee"
   },
   "componentDataDependencies": {
     "nodes": {
