@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b327b3fdf0f448c1e42f017916624a0c",
+        "contentDigest": "b20c6c14195f4455ea16ef1f96159aac",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -358,7 +358,7 @@
           },
           {
             "name": "styled-components",
-            "version": "^4.3.2"
+            "version": "^3.3.3"
           }
         ],
         "devDependencies": [
@@ -383,16 +383,16 @@
       "siteMetadata": {
         "title": "Case Study Archive"
       },
-      "port": 8001,
+      "port": "8000",
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-09-11T04:07:28.828Z",
+      "buildTime": "2019-09-11T05:22:27.101Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f31c3483fc2e7a38bfa23ba6c7990c65",
+        "contentDigest": "441bafdc940cc860d7ee360b00cee538",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -413,7 +413,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0bf9cc17f155a1f50e6a6adc2bb4159d",
+        "contentDigest": "0e19268a35eb9f7d8373c527466a074d",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -434,7 +434,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a80fd685263e11f0980ddb10cc15e7a5",
+        "contentDigest": "be1e428a7142bd7141f665ecc5423729",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -455,7 +455,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b550e2c79bb0b24c806366cb08ff0323",
+        "contentDigest": "8c2c618150dbc4deab5bf0ee97e0e46a",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -476,7 +476,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e3dea48f18eca500b7ff3cd977ece776",
+        "contentDigest": "eb719d7578acb1eb708be0cf2a82b2c8",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -484,7 +484,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "6affa526606111b6aa771407ebaef3ee"
+    "PLUGINS_HASH": "8dd80617a3e1a32b5605c8e6c00545c2"
   },
   "componentDataDependencies": {
     "nodes": {
